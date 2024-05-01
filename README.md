@@ -12,9 +12,13 @@ git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
 ### Key bindings
 
 `Ctl + a` is the prefix key
-`Ctl + a` + `I` to install plugins
-`Ctl + a` + `U` to update plugins
-`Ctl + a` + `r` to reload the config file
+`prefix` `I` to install plugins
+`prefix` `U` to update plugins
+`prefix` `r` to rename the current window
+`prefix` `R` to reload the config file
+`prefix` `T` to open the session manager.
+`prefix` `Alt` + `Arrow` to resize panes
+`prefix` `z` to zoom in/out of a pane
 
 ### Notes
 
