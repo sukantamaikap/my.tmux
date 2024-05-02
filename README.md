@@ -4,8 +4,7 @@
 brew install tmux
 brew install joshmedeski/sesh/sesh
 brew install zoxide
-mkdir ~/.config/tmux
-git clone git@github.com:sukantamaikap/my.tmux.git
+git clone git@github.com:sukantamaikap/my.tmux.git ~/.config/tmux
 git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
 ```
 
