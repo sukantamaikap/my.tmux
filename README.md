@@ -4,6 +4,7 @@
 brew install tmux
 brew install joshmedeski/sesh/sesh
 brew install zoxide
+brew install reattach-to-user-namespace
 git clone git@github.com:sukantamaikap/my.tmux.git ~/.config/tmux
 git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
 ```
